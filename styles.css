@@ -1,0 +1,39 @@
+#box1{
+    background-color:rgb(189,155,235);
+    width: 90%px;
+    height: 600px;
+   }
+   #box{
+    background-color: rgb(255, 255, 255);   
+    width: 88%;
+       height: 400px;
+   }
+   img{ 
+       position: relative;
+       left: 200px;
+       top:30px;
+       border-radius: 800px;
+       height:300px ;
+        width: 300px;
+       }
+       table{
+           border-spacing:10px;
+           background-color: rgb(189, 155, 235);
+       }
+p{
+   position: relative;
+ 
+   text-align: right;
+}
+#btn{
+   background-color: black;
+    position: relative;
+   left: 150px;
+   top: 20px;
+   width: 70px;
+   color: rgb(191, 152, 228);
+}
+#seat
+{
+   width: 50px;
+}
